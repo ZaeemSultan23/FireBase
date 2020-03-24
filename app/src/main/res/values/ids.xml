@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="documentIDTVTitle" type="id" />
+    <item name="documentIDET" type="id" />
+    <item name="cityNameTVTitle" type="id" />
+    <item name="cityNameET" type="id" />
+    <item name="cityDetailsTVTitle" type="id" />
+    <item name="cityDetailsET" type="id" />
+</resources>
